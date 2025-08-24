@@ -1,4 +1,4 @@
-How to parse lines in file.txt and produce an output like this:
+How to parse lines in file.txt and produce an output like this using Python (main.py) or Linux shell (bash.sh):
 
 Line: 1
 
