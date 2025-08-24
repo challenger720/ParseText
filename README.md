@@ -1,5 +1,5 @@
 There's a file like this
-aaa 14 \n
+aaa 14
 bbb 25
 ccc 56
 aba 77
