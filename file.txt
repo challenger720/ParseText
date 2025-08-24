@@ -1,0 +1,7 @@
+aaa 14
+bbb 25
+ccc 56
+aba 77
+xab 23
+xxa 34
+bea 12
